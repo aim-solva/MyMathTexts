@@ -1,3 +1,5 @@
-display : $$ \frac{n!}{k!(n-k)!} = {n \choose k} $$
+display : $$ x^n + y^n = z^n $$
 
 inline : This is text is to test tex inline like following: $x^n + y^n = z^n$.
+
+
