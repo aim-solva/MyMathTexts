@@ -8,3 +8,8 @@ $logic = logic.$
 $$
 A is A
 $$
+
+$$
+A is A.
+B is B.
+$$
